@@ -1,2 +1,2 @@
 # hello-world
-sample github repository
+little changes add up.  Big changes add up more.
